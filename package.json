@@ -1,0 +1,15 @@
+{
+  "name": "max-bot-api-schemas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Max Bot API schemas and JSON -> YAML (Swagger) converter",
+  "bin": {
+    "json2yaml": "json2yaml.js"
+  },
+  "scripts": {
+    "convert": "node json2yaml.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
