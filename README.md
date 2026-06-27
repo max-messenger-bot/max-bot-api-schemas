@@ -17,6 +17,7 @@
 | `schema_2026_06_11.yaml` / `.json` |  11 июня 2026  |   0.0.32   | OpenAPI 3.0 |
 | `schema_2026_06_16.yaml` / `.json` |  16 июня 2026  |   0.0.32   | OpenAPI 3.0 |
 | `schema_2026_06_18.yaml` / `.json` |  18 июня 2026  |   0.0.32   | OpenAPI 3.0 |
+| `schema_2026_06_26.yaml` / `.json` |  26 июня 2026  |   0.0.32   | OpenAPI 3.0 |
 
 Каждая схема представлена в двух форматах: YAML и JSON.
 
@@ -77,7 +78,7 @@ npm run convert -- schema_2026_06_02.json
 ## Ссылки
 
 - Официальная документация API: https://dev.max.ru/docs-api
-- Эндпоинт API: https://platform-api.max.ru
+- Эндпоинт API: https://platform-api2.max.ru
 
 ## Лицензия
 
